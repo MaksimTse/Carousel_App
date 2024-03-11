@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\bin\Debug\netstandard2.0\Carousel_App.deps.json
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\bin\Debug\netstandard2.0\Carousel_App.dll
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\bin\Debug\netstandard2.0\Carousel_App.pdb
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.sourcelink.json
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.dll
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\refint\Carousel_App.dll
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\Carousel_App.pdb
+C:\Users\User\Source\Repos\Carousel_App\Carousel_App\obj\Debug\netstandard2.0\ref\Carousel_App.dll
